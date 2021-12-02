@@ -1,0 +1,23 @@
+11.5.21
+	-Howdy everyone! Today's thread will be the first in a series called "BSD History"! We'll be sharing little facts about the conceptualization, development, and origins of the BSD family tree that has grown into the *BSD systems we all know and love today. :) >>
+	-This month will cover the seeds that started the entire journey, at Bell Labs, mid-1960s. Dennis Ritchie and Ken Thompson were working on an OS known as MULTICS- an early time-sharing system used to host multiple users, each doing a different task. >>
+	-If you've ever used a *nix machine, you'll know you can "drop into" a console level, known as a TTY. This stands for "TeleTYpe", and harks back to the days where multiple people could log in and simultaneously use the same machine! >>
+	-Today ran a little long, but we'll see you in a week for the next installment of BSD History! Enjoy your weekend and upcoming week, and #RUNBSD wherever you can! ;)
+
+11.12.21
+	-Alrighty folks! Time for another BSD History lesson. We last left off on MULTICS, the time-sharing system predecessor to UNIX. In 1969, Bell Labs pulled out of MULTICS development. I guess they were focused on telephones B). >>
+	-Dennis Ritchie, Ken Thompson, and Co. were not, however. They wanted to try again based on their work on MULTICS. Work was started on an unnamed OS designed for programming- it didn't initially have time-sharing capabilities. >>
+	-Over time, the little hobby OS that could became known as UNIX, a pun on MULTICS. Brian Kernighan, who worked closely with Ritchie and Thompson and created the `awk` command, takes unofficial naming credit. >>
+	-Well, this segment comes to a close. We'll see you again next Friday for more BSD History! Have a good weekend and week, and #RUNBSD wherever you can! B)
+
+11.19.21
+	-Hey, hey! It's BSD History time! Our story of UNIX continues, with Thompson starting development while he still had some access to MULTICS. Developing the basics, but realizing he needed a bit more power, he went looking for another system. >>
+	-His and Ritchie's team found a DEC PDP-7, and sequestered it for their purposes. They took what Thompson had created, and added things like a hierarchical file system, computer processes, and an "everything is a file" attitude towards devices. >>
+	-With these features and others under its belt, UNIX was leaner than MULTICS, and soon, stood on its own two feet. Doug McIlroy then ported over TMG compiler-compiler (a compiler that makes compilers!) and UNIX had its first high-level language. >>
+	-Yeh, yeh! That's the end of our third BSD History bit. We'll close out our first month next Friday! You know the drill by now, have a good few days and we'll see you soon! #RUNBSD, BABY!!
+
+11.26.21
+	-Aaand BSD History is back! UNIX just had the TMG compiler-compiler ported to it by Doug McIlroy. Around 1970, some internal possible use-cases arose, so Ritchie and Thompson added word-processing to UNIX. >>
+	-This helped them receive funding for a bigger, more capable computer from DEC: the PDP 11/20. This machine had a whopping 64KB of RAM- as much a Commodore 64, but 12 years prior!- and would run you about $11,800. >>
+	-(That's around $83,000 in 2021 money! Glad Bell Labs paid for it. B) ) Soon, text editing, typesetting, and formatting were introduced through an editor and a program called `troff`, and it became apparent a `man page`, or manual, was needed. >>
+	-It's been an honor to share this information with you- we'll continue our exploration of UNIX history the first Friday in December! See you soon, have a good few days, and #RUNBSD! <3

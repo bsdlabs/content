@@ -1,0 +1,14 @@
+Ideas for weekly upates- 
+-Little BSD factoids weekly. Can be threads, but preferably one topic and max of 2/3 tweets a thread.
+-Can be planned out in advanced so there's a possibility of themed weeks/months
+-Possibly automated as well? # look into this.
+
+	-BSD History:		Fridays
+		Little pieces of info about the development, creation, and ideation of BSD UNIX.
+
+	-BSD DYK:	  		Mondays
+		Pick a BSD OS and share a cool fact about it. 
+	
+	-App-byte-tizers: 	Wednesdays
+		Share an Open Source project that you appreciate, and some info on it, and how to get it.
+	
