@@ -1,0 +1,67 @@
+2021.12.03
+	-Good to see you all again! Let's hop right into it- UNIX had just developed
+	the text-formatter named 'troff'. More and more Bell Labs employees
+	preferred it over the OS bundled with their DEC workstations. Poor DEC devs.
+	>>
+	
+	-This growth and continued interest revealed a growing need for a manual.
+	Accessed by the now famous 'man' command, these pages had info, lists of
+	bugs, and ways to bug (heh) the authors about them. >>
+
+	-After Version 4 UNIX was released, a UNIX Support Group was formed among
+	the Bell Labs employees. Speaking of versions, UNIX actually was
+	continuously developed- an early implementation of "rolling release!" >>
+
+	-Thanks for your time! Catch you next week for more cool BSD History, and
+	try out #FreeBSD on your desktop! :)
+
+2021.12.10
+	-Hi all! Hope your weekend and week has treated you well, and you were able
+	to try a BSD Desktop. ;) We were talking about UNIX and releases- the
+	numbers you usually hear in version names were just for the manuals. >>
+
+	-Coming to 1973, UNIX was rewritten in the C programming language; Dennis
+	Ritchie's successor to his B programming language. It was much more portable- 
+	this is where NetBSD's portability success comes from! >>
+
+	-During this year, both Thompson and Ritchie wrote and debugged (!) almost 
+	100,000 lines of code! UNIX also made its first public appearance at the 
+	Symposium on Operating System Principals. >>
+
+	-Okily-dokily, we're wrapping up here. Next segment ETA: 604800 seconds,
+	plenty of time to #RunBSD! B)
+
+2021.12.17
+	-Subakh ul kuhar! Let's get to it! After UNIX's Symposium debut, requests
+	for UNIX began. Unfortunately, with legal limits on distribution,
+	Thompson gave out copies on the dl- inscribed with  "Love, Ken", legend has
+	it! >>
+
+	-Later in 1973, AT&T released System 5 UNIX and licensed it to educators for
+	a hefty $20,000 price, around $126,000 in 2021 USD. When 1975 rolled around,
+	they licensed System 6 UNIX to companies for roughly the same price. >>
+
+	-If you were fortunate enough to buy a copy, you got the source code
+	'as-is', and the PDP-11 dependent assembly code as well. The book "Lions'
+	Commentary on UNIX 6th Edition" was popular among educators for their
+	students. >>
+
+	-Kull mansuj manfud, and this does too. We'll leave you with these words
+	from the truth-sayers of Arrakis: UNIX is the spice of life! #RunBSD :)
+
+2021.12.24
+	- Howdy! It's good to see you again. :) So, as UNIX spread, a bunch of users
+	formed into the precursor to the USENIX group with the name "Unix Users
+	Group." This first meeting took place in New York, during 1974. >>
+
+	-Cementing the importance of this group was AT&T's lack of support for UNIX-
+	even then, UNIX was community powered! Even though AT&T didn't offer
+	support, they still cared about the trademark... >>
+
+	-In 1977, a lawyer from AT&T informed the Unix Users Group that they
+	couldn't have the word "UNIX" in their name. From this, the name "USENIX"
+	was formed! Today, the org is based in California, with ;login:, a journal.
+
+	-That about does it for today. :) Happy Holidays, if that's your thing!
+	Don't forget to irritate your friends and family by talking about #BSD or
+	#FreeBSD! Ttyl! B) 
