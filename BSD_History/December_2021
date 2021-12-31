@@ -65,3 +65,19 @@
 	-That about does it for today. :) Happy Holidays, if that's your thing!
 	Don't forget to irritate your friends and family by talking about #BSD or
 	#FreeBSD! Ttyl! B) 
+
+2021.12.31
+	- Hope your holidays were good! For this segment, we're going to take a
+	  break from the usual format and talk about the available hardware of the
+	  time. A lot of Unix's development was done on a PDP-7, which was released
+	  in 1965.
+	- This computer ran on Assembly Language, and, like most at the time, used
+	  an instruction set specific to its hardware. Base RAM was about 4k, but
+	  could be expanded up to (for the time) a whopping 64k, as much as a
+	  Commodore 64, but 20~ years earlier!
+	- Only about 120 of these were sold, total, and only about 5 remain today.
+	  These computers also weighed around 1,100lbs- half a ton! In comparison,
+	  the PDP-11, the later Unix development computer, sold about 600,000. These
+	  are rare, but much less so. :)
+	- Well, we're out of time today, so we'll see you in 31,557,600 seconds! ;)
+	  It'll be the new year, but you can still #RunBSD and show us your setup! 
