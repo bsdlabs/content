@@ -1,0 +1,78 @@
+2022.01.07
+	-Welcome to 2022! Glad you're all still here with us. :) Let's get back to it.
+	As UNIX's userbase grew, so did the hardware it ran on. It was increasingly
+	written in the C programming language, and soon, around 1977, Bell Labs gave
+	the team an Interdata 8/32. >>
+
+	-The goal here was to diversify the types of systems that UNIX could run on,
+	so UNIX was ported to the 8/32, and soon after it was running as a guest
+	system on a hypervisor VM/370 at Princeton. The VM/370 was a mainframe 
+	introduced 7 years earlier. >>
+
+	-And, interestingly enough, the family of virtual machines the VM/370
+	belonged to, called VM, was open source and considered public domain until
+	around the time UNIX was ported to it! This versatility has become a
+	hallmark of the UNIX and UNIX-like systems. >>
+
+	-We'll end it here, but we'll be thinking about next Friday when we can
+	share more about this fascinating family of systems we all love. <3 As
+	January gets under way, we hope you stay safe and #RunBSD. :)
+
+
+2022.01.14
+	-Hey all! Kicking off this Friday with #BSDHistory, as usual! UNIX was
+	expanding, having multiple systems under its belt and large parts of its
+	codebase written in C. An Intel 8086 based computer with a custom MMU and
+	the UNIVAC 1100 were quickly added. >>
+
+	-Next up was UNIX/32V for DEC's new VAX system- DEC had to request this
+	version from a different Bell Labs branch, as the group working on the
+	original UNIX didn't really like DEC by that time. And then, in 1979, System
+	7 was released. >> 
+
+	-With System 7's release, the little OS that could had grown into a
+	burgeoning contender for a universal OS, with about 50 system calls and,
+	counting the versions for specific uses (like PWB, the Programmer's
+	Workbench), at least 800 systems in use. >>
+
+	-Leaving on a high note! As usual, we'll see you next Friday. :)
+
+
+2022.21.21
+	-#BSDHistory time, everyone! Into the 80s, UNIX was expanding and gaining
+	corporate support. In 1981, UNIX System III was released, and you could grab
+	a license for US$100 (US$293 in 2022). To some, this marked the
+	commercialization of UNIX by Bell. >>
+
+	-Not all was well in Bell land, however. After UNIX System V Release 1 was
+	created, the US Department of Justice settled an antitrust law against AT&T
+	in 1983, their second one. AT&T broke into smaller companies, known as "Baby
+	Bells." >>
+
+	-While this was a good thing, it was bad for UNIX. One of the smaller
+	companies AT&T created was called AT&T Computer Systems- and this one didn't
+	have any of the restrictions that prevented the old company from
+	commercializing UNIX fully. >>
+
+	-Leaving on a low note, this time. Keep your head up, though, as there are
+	good things coming. :) #RunBSD! 
+
+
+2022.28.21
+	-Hi hi! Hoping this month was good for you, and your final weekend of
+	January 2022 is relaxing and restful. :) Okay, where were we? AT&T Computer
+	Systems had just been created, giving a green light for full
+	commercialization of UNIX. >>
+
+	-They quickly released UNIX System V, which competed against the prior
+	releases of UNIX. The researchers at Berkeley (yes, that Berkeley!) of 
+	'vi' and 'curses' fame, continued their work on UNIX as BSD, like they had
+	been for System V Release 1. >>
+
+	-BSD 4.1-4.3 added quite a bit to commercial UNIX, most notably the C Shell
+	with job control, and its networking TCP/IP stack, which was even included
+	in early versions of Microsoft Windows and System V. Next week, we'll take a
+	dive into BSD-specific history. 
+
+	-Appreciate yall's time, as always! Stay safe physically and digitally (by
+	running BSD ;) ) going into the new month! :)
