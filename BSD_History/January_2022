@@ -27,10 +27,10 @@
 
 	-Next up was UNIX/32V for DEC's new VAX system- DEC had to request this
 	version from a different Bell Labs branch, as the group working on the
-	original UNIX didn't really like DEC by that time. And then, in 1979, System
-	7 was released. >> 
+	original UNIX didn't really like DEC by that time. And then, in 1979,
+	Version 7 was released. >> 
 
-	-With System 7's release, the little OS that could had grown into a
+	-With Version 7's release, the little OS that could had grown into a
 	burgeoning contender for a universal OS, with about 50 system calls and,
 	counting the versions for specific uses (like PWB, the Programmer's
 	Workbench), at least 800 systems in use. >>
