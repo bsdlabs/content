@@ -1,0 +1,54 @@
+2022.02.05
+	-Happy February! When we left off last week, we were about to jump into the
+	BSD specific history. UNIX first arrived at Berkeley around 1974, requested
+	by Bob Fabry- who founded the Computer Systems Research Group. >>
+
+	-Initially run on a PDP-11/45 that was shared by a math/statistics group at
+	Berkeley, so it could only run around 8 hours at a time. Later on, using
+	money from the Ingres database project, they grabbed a PDP-11/70. >>
+
+	-That same year, Ken Thompson dropped by and helped install Version 6 Unix,
+	and started working on a Pascal implementation as well. A couple graduate
+	students, Charles Haley and Bill Joy, ran with this base and created 'ex',
+	an editor, now part of 'vi' and 'vim'! >>
+
+	-That wraps it for today! We'll see you next week, on Friday! :)
+
+2022.02.11
+	-Howdy! Let's jump back into BSD land. :) Ken Thompson had just dropped by
+	and helped with Version 6, and Joy and Haley had created 'ex'. As 1977 came
+	closer, more and more interest was piqued, so Bill started compiling in
+	1977, and then released as 1BSD in 1978. >>
+
+	-Interestingly enough, 1BSD was an addon to Version 6 Unix! Only around 30 copies
+	were released- but you can find it now at
+	https://www.tuhs.org/cgi-bin/utree.pl?file=1BSD! Soon after, in 1979, 2BSD
+	was out, and with it the C Shell and the 'vi' editor, both by Bill Joy! >>
+
+	-2BSD had about 75 copies released, and you can check out the files at the
+	link in the previous tweet! This version came with Berknet, part of Eric
+	Schmidt's master's thesis. Berknet allowed up to 26 computers to connect
+	with file sharing and email. >>
+
+	-All right! Catch you next week, same time, same place! 
+
+2022.02.18
+	-Hey all you beasties! Did you know 2BSD is still being updated? 2.11BSD received
+	its 473rd patch this past January 25! Berkeley got a VAX machine around
+	1978, but since UNIX/32V didn't support its virtual memory
+	capabilities, Ozalp Babaoglu stepped up. >>
+
+	-Babaoglu rewrote the 32V's kernel to include this, and along with 2BSD
+	and 32V utilities working on the VAX, was released as 3BSD at the end of
+	1979! 3BSD was also called Virtual VAX/UNIX or VMUNIX. In fact, up until
+	4.4BSD, kernel images were called /vmunix. >>
+
+	-VMUNIX had great success, thanks to CSRG funding from DARPA. This would
+	mean a standard UNIX platform for DARPA research for the VLSI Project. VLSI
+	was a program to improve microprocessors- and influenced things like CAD and
+	RISC. >>
+
+	-Thanks for your time today! Hope your weekend goes well, and #RUNBSD where
+	you can, and maybe where you can't! ;)
+	
+2022.02.25
