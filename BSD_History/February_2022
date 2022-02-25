@@ -52,3 +52,19 @@
 	you can, and maybe where you can't! ;)
 	
 2022.02.25
+	-Good afternoon in CST! Hope you're all doing well- BSD sure is. B) In 1980,
+	4BSD was released. This release came with 'delivermail', a precursor to
+	'sendmail', 'csh', and, surprisingly, the Curses language. I had no idea it
+	went back that far! >> 
+
+	-It was followed soon by 4.1BSD in the summer of 1981. This release would
+	have been called '5BSD', but AT&T was concerned about confusion between it
+	and UNIX System V. Bill joy included many kernel and system-level
+	improvements and tune-ups in this release. >>
+	
+	-4BSD was preferred for VAX machines, until System III was released. Many
+	systems inside the Bell System (the group of companies led by Bell) ran
+	4.1BSD, or 4.2BSD. Joy's work made 4.1BSD performant enough to compete with
+	VMS (now OpenVMS), DEC's OS for VAX. >>
+
+	-Okay, that wraps us up for February! See y'all in March! :)
