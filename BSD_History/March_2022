@@ -1,0 +1,30 @@
+2022.03.05
+	-Happy #Marchintosh2022, everyone! This month, we'll be examining the early
+	connections between UNIX, BSD, and Apple's classic/current operating
+	systems! This could be a whole weekly segment on its own, so these threads 
+	will be a tweet or two longer. :) >>
+
+	-To start, we'll need to backtrack to around 1985, when this guy named Steve
+	Jobs was forced out of Apple by someone he hired, which is a whole other
+	story for another time. Jobs quickly created NeXT, a software and
+	hardware company that would change the world. >>
+
+	-NeXT promptly started working on their operating system, called NeXTSTEP,
+	and it was groundbreaking in several ways! It incorporated: a Unix-like OS,
+	based on Mach and 4.3BSD-Tahoe and Display PostScript. It was used to
+	develop the WWW, Doom, and Doom II! >>
+
+	-It also premiered some very interesting UI features; namely the iconic Dock
+	from macOS, the Shelf, a kind of recently-used item storage, full-color
+	icons, and its hybrid kernel that macOS still uses, owed to its Mach/BSD
+	heritage. :) >>
+
+	-Okily-dokily neighborino- that does it for this first week! We'll see you
+	next Friday for our #Marchintosh2022-themed BSD History! 
+
+2022.03.11
+	- //focus on the Mach/BSD connection
+2022.03.18
+	- //focus on the uses and hardware
+2022.03.25
+	- //focus on the acquisition by Apple, and the ripples into current macOS
