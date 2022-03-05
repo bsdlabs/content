@@ -20,10 +20,38 @@
 	heritage. :) >>
 
 	-Okily-dokily neighborino- that does it for this first week! We'll see you
-	next Friday for our #Marchintosh2022-themed BSD History! 
+	next time for our #Marchintosh2022-themed BSD History! 
 
 2022.03.11
-	- //focus on the Mach/BSD connection
+	-We're continuing our #Marchintosh2022 themed segment content! This week
+	we're diving into NeXTSTEP's hybrid kernel, which still exists in macOS to
+	this day in XNU, the kernel of Darwin, which is the base for macOS. NeXTSTEP
+	was, and is, integral to Apple. >>
+	
+	-Throughout most of its life, NeXTSTEP used 4.3BSD-Tahoe, changing to 4.3BSD-Reno
+	for its 3.0 release, and during Rhapsody development, upgraded to 4.4BSD.
+	We'll focus on Mach first: developed at Carnegie Mellon by Richard Rashid
+	and Avie Tevanian. >>
+
+	-Originally, Mach was developed to support operating system research-
+	parallel and distributed computing, specifically. Thanks to these two
+	concepts, it became an early example of a microkernel! Microkernels
+	are rad, just ask our cousin @DragonFlyBSD. ;) >>
+
+	-Mach was also intended to be drop-in replacement for BSD's kernel, so Mach
+	and BSD were close from the start. In fact, in 4.4BSD, Mach's virtual memory
+	management system was adopted by the developers at the previously mentioned
+	CSRG; it even appears in modern BSDs today! >>
+
+	-Development for Mach started with 4.2BSD, changing to 4.3BSD as Mach became
+	more integrated into the system. By 1986, it could run on a DEC VAX,
+	followed by an IBM RT PC- a PC based on RISC tech, and then the 68030-based
+	Sun Microsystem workstations. >>
+
+	-That'll wrap us for this week, NeXT week we'll be focusing on NeXT as a
+	company, and the software and hardware they developed! Take it easy,
+	beasties! :)
+
 2022.03.18
 	- //focus on the uses and hardware
 2022.03.25
