@@ -1,0 +1,51 @@
+2022.04.08
+	-And we're back after a week break! Hope April's been kind to everyone. :)
+	4.2BSD was on the horizon, and everyone was hard at work on the interim
+	releases 4.1a, 4.1b, and 4.1c. 4.1a brought BBN's (more commonly known as
+	Raytheon) TCP/IP in a modified form. >>
+
+	-Most of this work was done by Bill Joy, who worked on tuning the 4.1BSD
+	release previously. According to John Gage, Bill Joy created his own TCP/IP
+	stack that performed better than the Raytheon/BBN version, and when asked
+	how he did it, repsonded with: >>
+
+	-"It's very simple- you read the protocol and write the code." Raytheon's
+	Rob Gurwitz, of course, disputes this. Either way, the TCP/IP stack, heavily
+	restructured and created by Joy, remains one of the pinnacles of network
+	programming today. >>
+
+	-Along with this came some temporary utilities for remote management and
+	access, like 'rwho', 'rcp', 'login', and 'rsh'. They were prototypes, 
+	and intended to be replaced later by more "reasonable" implementations,
+	thus the 'r' prefix. >>
+
+	-4.1b brought the Berkeley Fast File System, a predecessor to the UFS that
+	most BSDs still use and support. This was brought in thanks to the efforts
+	of Marshall Kirk McKusick, who is incredibly integral to FreeBSD, and still
+	works on FFS/UFS, 40 years later! >>
+
+	-4.1b, in McKusick's words, came from the integration of the Berkeley Fast
+	File System with the 4.1a kernel. This release was heavily developmental,
+	and only ran on a few machines. They didn't want to release so many big
+	chnages to the main line just yet. >>
+
+	-As an aside, it was at this time that Joy joined Sun Microsystems, and
+	started to split his time between Sun and BSD. While working for Sun, his
+	time at BSD was spent polishing his code and refining the Unix kernel
+	sources to isolate machine dependencies. >>
+
+	-4.1c was essentially a Release Candidate for 4.2BSD. Bell Labs also
+	used it for the 8th Edition of Research Unix, and mt Xinu (say it backwards
+	;) ) put out a commercially supported version for the DEC VAX. >>
+
+	-Since 4.1c included the new filesystem and other features, many vendors
+	used it to prepare for ports of 4.2BSD on their hardware. With distribution
+	starting in 1983, Pauline Schwartz was hired to take over that process. >>
+
+	-Well, that about wraps things up for this week! We hope you liked the
+	extended length- we really enjoyed writing it! :) Stay Unix, my friends!
+2022.04.15
+
+2022.04.22
+
+2022.04.29
