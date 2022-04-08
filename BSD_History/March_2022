@@ -53,6 +53,103 @@
 	beasties! :)
 
 2022.03.18
-	- //focus on the uses and hardware
+	-Hello everyone! We're jumping into our third week of #Marchintosh2022 with
+	the hardware and software that NeXT created. We'll start with the
+	NeXT Computer, aptly named. Released in 1988, this was the start of NeXT's
+	short but incredibly influential run. >>
+
+	-Designed around the Motorola 68030, and clocked at 25MHz, the NeXT Computer
+	had quite a bit of power, especially with NeXTSTEP running on it. It had a
+	black, cubey design, which inspired the rename to the NeXTcube in later 
+	updates. >>
+
+	-As NeXTcube, it received a CPU upgrade to the Motorola 68040, though still
+	clocked at 25MHz. A Turbo edition was released with a 33MHz clock speed, and
+	was later upgradeable to 40MHz with a Nitro accelerator board. NeXT up is
+	the NeXTstation! >>
+
+	-The NeXTstation's performance was roughly equivalent to Apple's Quadra 900,
+	with a similar price to a IIsi. The CPU could be clocked at 25MHz, or 33MHz
+	if you opted for the Turbo edition. This product only sold around 50,000
+	units, surprisingly! >>
+
+	-It also came with a NeXT MegaPixel 17 inch display, a monochrome CRT
+	designed by Hartmut Esslinger, creator of the Snow White design language 
+	so many old Macs were designed with or around! In fact, Esslinger's firm 
+	did most of the NeXT line. >>
+
+	-Looking to the accomplishments NeXT has under its belt, its computers were
+	used by CERN's Robert Cailliau to develop the world's first web server, CERN 
+	httpd, and web browser, WorldWideWeb. It also was used by id Software for
+	their games >>
+
+	-DOOM, DOOM II, and Quake, and the DOOM engine games! Additionally, Steve
+	Jobes used a NeXT Computer to make the first online pizza order with
+	CyberSlice, a Geographical Information System using GPS. Apparently he likes
+	tomato and basil. >>
+
+	-NeXT Computers also had the precursor to an app store- Paget Press from
+	Seattle developed the Electronic AppWrapper, a kind of digital storefront
+	for NeXT applications. It handled the distribution, installation, and 
+	digital rights of its apps.
+
+	-Phew, that's a long one. All that in roughly 11 years, what a legacy. We'll 
+	see you next week for our final #Marchintosh2022 segment, covering NeXT's 
+	acquisition by Apple, and its rippling influences to modern day macOS! Stay
+	UNIX, my friends! 
 2022.03.25
-	- //focus on the acquisition by Apple, and the ripples into current macOS
+	-Howdy beasties! In our last #Marchintosh2022 themed segment, we'll be
+	looking at NeXT's integration with Apple, and how its innovations and links
+	to BSD and Open Source form the deep roots to Apple today. Let's get to it!
+	>>
+
+	-So, the year is 1996. Apple is in a bit of a rough spot- they haven't had
+	as much success as they thought they might. Their market share was
+	declining, and their OS, Mac Classic OS, was aging. They even considered
+	companies like Be, makers of BeOS. >>
+
+	-NeXT, interestingly, was also declining. They had switched to software only
+	at this point, and had been focusing mostly on their projects OpenStep and
+	WebObjects. Then, on December 20, 1996, Apple Computer, Inc. declared their
+	intention to buy NeXT for $400 million USD: >>
+
+	-$50 million to cover NeXT's debts, and $350 million for everything else.
+	The deal was finalized on February 9th, 1997, and only a few months later,
+	Jobs staged a coup that moved him from consultant to interim CEO. Many NeXT
+	employees replaced their Apple counterparts, >>
+	
+	-so much so, that some joked that NeXT had actually acquired Apple for $-400 
+	million! Now, you may be asking, what does this mean for NeXTSTEP? Well,
+	Apple promptly went into a four year development period. Using the
+	Objective-C language, and >>
+
+	-lots of components from NeXTSTEP, now called OpenStep, they eventually had 
+	a prototype name: Rhapsody. Sporting a heavily modified Mach kernel, an OS
+	layer based on 4.4BSD, a Blue Box compatibility layer for older Mac
+	applications, and a Yellow Box >>
+
+	-API framework inherited from OpenStep, this is what would become Mac OS X.
+	Lots of this code was then forked into Darwin, which is mac OS' current
+	component base. Darwin, in turn, uses XNU as its kernel, which is a hybrid
+	kernel using bits from >>
+
+	-FreeBSD and OSFMK (a commercial version of the Mach hybrid kernel.) This
+	combination is pretty potent, underpinning all of Apple's products to date.
+	Darwin is released under the Apple Public Source License- the FSF says it's
+	a free-software license incompatible with the GPL. >>
+
+	-These tight ties to FreeBSD and Open Source is why you will sometimes hear
+	macOS referred to as a FreeBSD derivative. This is half-true; FreeBSD gives
+	portions of its codebase to Darwin, but so does OSFMK- the result is
+	something different altogether. >>
+
+	-However, macOS is, since version 10.5 "Leopard", is fully POSIX compliant.
+	macOS is by definition, UNIX, which is pretty cool! >>
+
+	-That brings us to a close of our #Marchintosh2022 themed BSD History month!
+	As an aside, our regular BSD History will now be much longer since y'all
+	enjoyed these longer bits so much! I'm so glad that you guys like my writing
+	enough to want more of it. <3 >>
+
+	-We'll see you next month, for our new, enlarged segment! Have a good
+	weekend!
