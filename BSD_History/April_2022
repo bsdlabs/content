@@ -7,7 +7,7 @@
 	-Most of this work was done by Bill Joy, who worked on tuning the 4.1BSD
 	release previously. According to John Gage, Bill Joy created his own TCP/IP
 	stack that performed better than the Raytheon/BBN version, and when asked
-	how he did it, repsonded with: >>
+	how he did it, responded with: >>
 
 	-"It's very simple- you read the protocol and write the code." Raytheon's
 	Rob Gurwitz, of course, disputes this. Either way, the TCP/IP stack, heavily
@@ -27,7 +27,7 @@
 	-4.1b, in McKusick's words, came from the integration of the Berkeley Fast
 	File System with the 4.1a kernel. This release was heavily developmental,
 	and only ran on a few machines. They didn't want to release so many big
-	chnages to the main line just yet. >>
+	changes to the main line just yet. >>
 
 	-As an aside, it was at this time that Joy joined Sun Microsystems, and
 	started to split his time between Sun and BSD. While working for Sun, his
