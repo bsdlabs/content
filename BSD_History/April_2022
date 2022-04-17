@@ -15,7 +15,7 @@
 	programming today. >>
 
 	-Along with this came some temporary utilities for remote management and
-	access, like 'rwho', 'rcp', 'login', and 'rsh'. They were prototypes, 
+	access, like 'rwho', 'rcp', 'rlogin', and 'rsh'. They were prototypes, 
 	and intended to be replaced later by more "reasonable" implementations,
 	thus the 'r' prefix. >>
 
@@ -44,8 +44,54 @@
 
 	-Well, that about wraps things up for this week! We hope you liked the
 	extended length- we really enjoyed writing it! :) Stay Unix, my friends!
-2022.04.15
+2022.04.16
+	-Alrighty! A little late, but still here: BSD History! So, in August 1983,
+	4.2 was released! It was very successful- more than 1,000 licenses were
+	released, which is more than all of the previous Berkeley releases
+	combined!>>
+	
+	-Compared to System V UNIX, 4.2BSD had McKusick's Fast File System and 
+	networking from BBN (now Raytheon), so vendors usually shipped it instead.
+	System V eventually integrated those innovations and reclaimed its dominant
+	commercial place, but 4.2BSD was incredibly noteworthy.
+	
+	-Some resources for this release that are too long to summarize, even for
+	these extended formats, are: 4.2BSD Source Code- [https://minnie.tuhs.org/cgi-bin/utree.pl?file=4.2BSD]
+	
+	4.2BSD File Usage Analysis-
+	[https://dl.acm.org/doi/pdf/10.1145/323627.323631] >>
 
+	-4.2BSD Performance Comparison to 4.1BSD-
+	[https://apps.dtic.mil/sti/pdfs/ADA611681.pdf] >>
+
+	-4.2BSD had many functional and technical advances over its predecessor, but
+	there were valid criticisms- namely, its performance was not up to 4.1BSD.
+	Kirk McKusick and Mike Karels' first year working on it was spent tuning it
+	up and making it performant. >>
+
+	-After two years, as 4.3BSD came 'round the corner and its release
+	announcement at the 1985 June USENIX Conference was made, BBN pumped the
+	brakes. They complained that their final version of the TCP/IP stack had
+	never been included in 4.2BSD. >>
+
+	-Karels did an evaluation of Berkeley's and BBN's implementations, and
+	decided, ultimately, that both should be kept, with the good bits from the
+	BBN version merged into the Berkeley version, and the user could decide
+	which one to use in their kernel. >>
+
+	-DARPA, seeing Karels' decision, figured that maintaining two versions would
+	be too much, and both versions were given to an agreed-upon neutral third
+	party, Mike Muuss of the Ballistics Research Laboratory. Quite a bit of
+	testing later, Berkeley came out on top! >>
+
+	-Berkeley's version handled stress conditions better, so it was kept, and
+	DARPA solidified its place in 4.2BSD and onward. This, along with all the
+	polishing and tuning done by McKusick and Karels, set the team up for the
+	4.3BSD release! >>
+
+	-That is, unfortunately, all the time we have for this week, but! Did you
+	know 4.2BSD introduced the BSD Beastie (created by John Lasseter!)? It's so cute! :) Have a great
+	weekend and week, everyone! 
 2022.04.22
 
 2022.04.29
