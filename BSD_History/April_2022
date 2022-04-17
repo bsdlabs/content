@@ -46,7 +46,7 @@
 	extended length- we really enjoyed writing it! :) Stay Unix, my friends!
 2022.04.16
 	-Alrighty! A little late, but still here: BSD History! So, in August 1983,
-	4.2 was released! It was very successful- more than 1,000 licenses were
+	4.2 was released! It was very successful- more than 1,000 site licenses were
 	released, which is more than all of the previous Berkeley releases
 	combined!>>
 	
@@ -55,8 +55,10 @@
 	System V eventually integrated those innovations and reclaimed its dominant
 	commercial place, but 4.2BSD was incredibly noteworthy.
 	
-	-Some resources for this release that are too long to summarize, even for
-	these extended formats, are: 4.2BSD Source Code- [https://minnie.tuhs.org/cgi-bin/utree.pl?file=4.2BSD]
+	-Some very neat resources for this release that are too long to summarize, 
+	even for these extended formats, are: 
+
+	4.2BSD Source Code- [https://minnie.tuhs.org/cgi-bin/utree.pl?file=4.2BSD]
 	
 	4.2BSD File Usage Analysis-
 	[https://dl.acm.org/doi/pdf/10.1145/323627.323631] >>
