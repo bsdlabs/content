@@ -94,6 +94,60 @@
 	-That is, unfortunately, all the time we have for this week, but! Did you
 	know 4.2BSD introduced the BSD Beastie (created by John Lasseter!)? It's so cute! :) Have a great
 	weekend and week, everyone! 
-2022.04.22
 
+2022.04.22
+	-Good afternoon from CST, all! 4.3BSD, after the networking debacle between
+	Berkeley and BBN (Raytheon), was finally out in June of 1986. Even though
+	lots of vendors had already started moving back to System V, the advances in
+	4.3BSD were merged back into their systems. >>
+
+	-After 4.3BSD's release, a company called Computer Consoles Inc. was working 
+	on a VAX competitor, the Power 6/32. They wanted to have 4.3BSD running on 
+	their machine, so they sent some Power 6/32s over to the BSD team. >>
+
+	-Even though its architecture and design were halted soon after, porting 
+	4.3BSD to it let the team finish up a project started by Bill Joy: 
+	splitting the BSD kernel into machine-dependent and machine-independent
+	parts. >>
+
+	-This work was released as 4.3SBD-Tahoe, referencing the codename for the
+	short-lived Power 6/32 machine that had fueled the significant increase in
+	portability. Tahoe also added an implementation of the OSI network protocol
+	stack and >>
+
+	-new TCP/IP algorithms, with Van Jacobson of LBL, to help with the growth of
+	the internet. If you're interested in reading the full changelog, it's right
+	here! [https://gunkies.org/wiki/4.3_BSD_Tahoe] >>
+
+	-Now, if you checked that source, you'll notice a name we haven't touched on
+	yet- Keith Bostic. Bostic joined the CSRG at Berkeley in 1986, and requested
+	that he be able to finish the project started at his other job: porting the
+	freshly released 4.3BSD to the PDP-11. >>
+
+	-As skeptic as Mike Karels and Kirk McKusick were, they agreed to let him
+	attempt it. Bostic, to their surprise, completed it- compiling the 4.3BSD
+	kernel down to ~250KB and using the intricacies of the PDP-11's processor
+	and overlay states to get the job done. >>
+
+	-Bostic's work was integrated the previously mentioned 2.11BSD, which was
+	released in 1991 as the 20 year celebration for the PDP-11! The original
+	release announcement is here:
+	[https://www.krsaborio.net/bsd/research/1991/0314.htm]. >>
+
+	-So, up until now, all recipients of BSD needed an AT&T source license. This
+	was because all BSD versions had been bundled with their source- their
+	success and legacy attesting to the flexibility and communal growth that
+	comes from having your source available. >>
+
+	-Vendors using BSD primarily for its networking tools had found the licensing 
+	cost increasingly prohibitive as AT&T raised their license prices, so they 
+	started requesting that Berkeley package and release the TCP/IP code and
+	networking utilities separately- so they did. >>
+
+	-Named Networking Release 1 or Net/1, and released in June 1989, this
+	freely-redistributable software paved the way for the BSD License and the
+	distribution methods of BSDs to come. <3 >>
+
+	-That'll do it for this week, folks- we'll be taking a break next week, so
+	we'll see you the first week of May! #RunBSD, because it's fantastic! 
 2022.04.29
