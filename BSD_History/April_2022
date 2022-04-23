@@ -124,7 +124,7 @@
 	that he be able to finish the project started at his other job: porting the
 	freshly released 4.3BSD to the PDP-11. >>
 
-	-As skeptic as Mike Karels and Kirk McKusick were, they agreed to let him
+	-As skeptical as Mike Karels and Kirk McKusick were, they agreed to let him
 	attempt it. Bostic, to their surprise, completed it- compiling the 4.3BSD
 	kernel down to ~250KB and using the intricacies of the PDP-11's processor
 	and overlay states to get the job done. >>
